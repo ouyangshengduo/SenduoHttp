@@ -560,6 +560,6 @@ Call类中的AsyncCall线程，是请求真正开始的地方，使用者调用e
 
 以下是此项目的源码：
 
-[SenduoHttp](https://github.com/ouyangshengduo/SenduoHttp)
+[项目的简书地址](https://www.jianshu.com/p/36347c7dfa65)
 
 

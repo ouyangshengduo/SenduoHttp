@@ -36,7 +36,7 @@ public class HttpCodec {
     public static final String HEAD_VALUE_CHUNKED = "chunked";
 
     public static final String PROTOCOL_HTTPS = "https";
-    public static final String PROTOCOL_HTTP = "https";
+    public static final String PROTOCOL_HTTP = "http";
 
     public static final String ENCODE = "UTF-8";
 
